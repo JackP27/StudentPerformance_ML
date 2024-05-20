@@ -6,7 +6,8 @@ Opem anaconda promopt
 	
 Create Environment
 	- conda create -p venv python==3.11 -y
-	- Acitivate enviroment using conda activate venv/    
+	- Acitivate enviroment using conda activate venv/ 
+	- conda activate venv/   
 	
 Connect Github in VS code
 	
@@ -21,3 +22,8 @@ Connect Github in VS code
 	git branch -M main
 	git remote add origin https://github.com/JackP27/StudentPerformance_ML.git
 	git push -u origin main
+
+create setup.py and requirements
+	- pip install -r requirements.txt
+
+create SRC folder and build package
