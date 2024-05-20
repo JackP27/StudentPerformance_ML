@@ -1,0 +1,23 @@
+Create repository in GitHub
+
+Opem anaconda promopt
+	- open project location
+	- opnn vc code using code .
+	
+Create Environment
+	- conda create -p venv python==3.11 -y
+	- Acitivate enviroment using conda activate venv/    
+	
+Connect Github in VS code
+	
+	Run Below Command to connect github account :
+	git config --global user.email "you@example.com"
+    git config --global user.name "Your Name" 
+	
+	echo "# StudentPerformance_ML" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/JackP27/StudentPerformance_ML.git
+	git push -u origin main
