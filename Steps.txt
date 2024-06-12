@@ -1,3 +1,6 @@
+PlayList
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG
+
 Create repository in GitHub
 
 Opem anaconda promopt
@@ -26,4 +29,10 @@ Connect Github in VS code
 create setup.py and requirements
 	- pip install -r requirements.txt
 
-create SRC folder and build package
+create SRC folder and build package and exception.py/logger.py/utils.py
+
+-- Tutorial 2 --
+
+	- Create components folder and created __init__.py, data_ingestion.py/data_transformation.py/model_trainer.py
+	- Create Pipeline folder and file ( predict_pipeline.py / train_pipeline.py / __init__.py )
+	- Created code for Logger and exception file
