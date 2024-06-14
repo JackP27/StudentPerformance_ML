@@ -44,3 +44,8 @@ create SRC folder and build package and exception.py/logger.py/utils.py
 		- conda activate env_name               
 		- conda install jupyter 
 		- conda install -c anaconda ipykernel
+	- Performed EDA
+
+-- Tutorial 4 --
+
+	- creating data_ingestion file
