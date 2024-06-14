@@ -36,3 +36,11 @@ create SRC folder and build package and exception.py/logger.py/utils.py
 	- Create components folder and created __init__.py, data_ingestion.py/data_transformation.py/model_trainer.py
 	- Create Pipeline folder and file ( predict_pipeline.py / train_pipeline.py / __init__.py )
 	- Created code for Logger and exception file
+
+-- Tutorial 3 --
+
+	- Download Notebook folder
+	- run below command for jupyter Notebook
+		- conda activate env_name               
+		- conda install jupyter 
+		- conda install -c anaconda ipykernel
